@@ -3,7 +3,7 @@ using System.ComponentModel;
 using System.Globalization;
 using System.Windows;
 using System.Windows.Data;
-using SELogger.Comm;
+using SEClient;
 using SELogger.Logging;
 
 namespace SELogger

@@ -5,6 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:SELogger"
         mc:Ignorable="d"
+        MinWidth="200"
         Title="SmartEye Data Logger">
     
     <Window.Resources>
